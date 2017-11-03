@@ -1,2 +1,2 @@
 # testProject
-My First Project for Automation - By Sivasankari
+My Project for Automation - By Sivasankari
