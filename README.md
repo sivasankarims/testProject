@@ -1,2 +1,2 @@
 # testProject
-My First Git Project for Automation - By Sivasankari
+My First Project for Automation - By Sivasankari
