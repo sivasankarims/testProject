@@ -30,6 +30,7 @@ public class KLMTicket {
 			//WebElement element = ddmenu.get(i);
 			
 			String htmlvalues =  ele.getAttribute("innerHTML");
+			String htmlvalues2 =  ele.getAttribute("innerHTML");
 			
 			System.out.println(htmlvalues);
 			
