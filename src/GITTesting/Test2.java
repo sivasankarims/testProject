@@ -12,7 +12,7 @@ public class Test2 {
 
 	}
 	public static void secMethod() {
-		System.out.println("Hiee");
+		System.out.println("Hiee1");
 		
 	}
 
